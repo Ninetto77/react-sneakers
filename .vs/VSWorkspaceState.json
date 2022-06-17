@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\public",
-    "\\public\\img",
-    "\\src"
+    "\\src",
+    "\\src\\components"
   ],
+  "SelectedNode": "\\src\\components\\Card.js",
   "PreviewInSolutionExplorer": false
 }
