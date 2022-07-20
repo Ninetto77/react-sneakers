@@ -3,8 +3,9 @@
     "",
     "\\public",
     "\\src",
-    "\\src\\components"
+    "\\src\\components",
+    "\\src\\components\\Card"
   ],
-  "SelectedNode": "\\src\\components\\Card.js",
+  "SelectedNode": "\\src\\components\\Card\\index.js",
   "PreviewInSolutionExplorer": false
 }
